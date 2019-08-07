@@ -1,4 +1,8 @@
 green
 blue
 white
+<<<<<<< Updated upstream
 pink
+=======
+yello
+>>>>>>> Stashed changes
